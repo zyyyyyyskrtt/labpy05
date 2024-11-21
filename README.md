@@ -30,5 +30,5 @@ Mata Kuliah: Bahasa Pemrograman <p>
      - c: Mencari dan menampilkan data mahasiswa berdasarkan NIM.
      - k: Keluar dari program.
 ## Hasil Program
-![gambar 3](ss2.png)
-![gambar 4](ss2.png)
+![gambar 3](ss3.png)
+![gambar 4](ss4.png)
